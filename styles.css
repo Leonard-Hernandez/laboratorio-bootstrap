@@ -1,0 +1,14 @@
+body {
+  background-color: #195b9c;
+}
+h2 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+img {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
